@@ -26,7 +26,7 @@
     "@types/json-server": "^0.14.7",
     "@types/node": "^20.11.20",
     "@types/react": "^18.2.53",
-    "@types/react-dom": "^18.2.18",
+    "@types/react-dom": "^18.2.19",
     "@typescript-eslint/eslint-plugin": "^6.20.0",
     "@typescript-eslint/parser": "^6.19.1",
     "@vitejs/plugin-react": "^4.2.1",
