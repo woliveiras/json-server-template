@@ -40,7 +40,7 @@
     "husky": "^9.0.6",
     "json-server": "^1.0.0-alpha.23",
     "typescript": "^5.3.3",
-    "vite": "^5.0.12",
+    "vite": "^5.1.4",
     "vitest": "^1.2.2"
   }
 }
