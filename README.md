@@ -1,12 +1,12 @@
-# vite-react-template
+# json-server-template
 
-Vitejs and React starting template using Git Hooks, Vitest, and Vitest UI and react-testing-library.
+Vitejs and React starting template using Git Hooks, Vitest, and Vitest UI, react-testing-library and json-server.
 
-## <a name='ReactTypeScriptVite'></a>React + TypeScript + Vite
+## <a name='ReactVitejson-server'></a>React, Vite + json-server
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules using the json-server as mock server to work with XHR.
 
-Based on default [vite react + typescript template](https://vitejs.dev/guide/).
+Based on [woliveiras/vite-react-template](https://github.com/woliveiras/vite-react-template).
 
 Maybe you will need help to create some GitHub Actions or another .github configuration. So, you can check my other template for it: [woliveiras/.github](https://github.com/woliveiras/.github)
 
@@ -16,7 +16,7 @@ Maybe you will need help to create some GitHub Actions or another .github config
 
 <!-- vscode-markdown-toc -->
 
-- [React + TypeScript + Vite](#ReactTypeScriptVite)
+- [React, Vite + json-server](#ReactVitejson-server)
 - [How to use this template](#Howtousethistemplate)
 - [How to run this project](#Howtorunthisproject)
 - [Running the tests](#Runningthetests)
@@ -74,6 +74,18 @@ Now, we can install the application dependencies and start our dev-server with t
 ```sh
 npm i
 npm run dev
+```
+
+Seed the DB with the following command:
+
+```sh
+npm run seed-db
+```
+
+Run the server:
+
+```sh
+npm run server
 ```
 
 ## <a name='Runningthetests'></a>Running the tests

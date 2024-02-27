@@ -1,0 +1,39 @@
+{
+  "companies": [
+    {
+      "id": "6ef4cd0e-df51-4b5b-80b8-382cbfd5b9d2",
+      "isActive": true,
+      "company": "Doylly",
+      "industry": "soft-drinks",
+      "about": "Dolly is a Brazilian soft drink company based in Diadema, São Paulo which has operated in the Southeast Region of Brazil since its founding in 1987. Its main product is Dolly Guaraná. Its mascot, Dollynho, has appeared in the company's advertisements since 2004. Due to its exposure on national television, Dollynho became a popular internet meme in Brazil. https://en.wikipedia.org/wiki/Dolly_(soft_drink)"
+    },
+    {
+      "id": "806696a6-bdd7-466a-8a8d-863753dcc456",
+      "isActive": true,
+      "company": "Convenção",
+      "industry": "soft-drinks",
+      "about": "Soft Drinks Convention is a Brazilian family company dedicated to the production of drinks such as syrups and soft drinks, best known for the production of Frutaina and fruit-based soft drinks. https://pt.wikipedia.org/wiki/Refrigerantes_Conven%C3%A7%C3%A3o"
+    },
+    {
+      "id": "a4d89d2e-24c0-4047-a32f-34ee2e4485da",
+      "isActive": false,
+      "company": "Balas Juquinha",
+      "industry": "candy",
+      "about": "Balas Juquinha was a Brazilian company, manufacturer of the eponymous brand of candies and sweets, based in Santo André, SP. The company was founded in 1945 under the corporate name of Salvador Pescuma Russo & Cia. Ltda. It began its activities in the manufacture of powdered soft drinks. https://pt.wikipedia.org/wiki/Balas_Juquinha"
+    },
+    {
+      "id": "d3911c94-60f4-4676-9d4e-dc9d0112ddfe",
+      "isActive": true,
+      "company": "Elma Chips",
+      "industry": "snacks",
+      "about": "Elma Chips is a Brazilian snacks company and its main industrial unit is in Curitiba, capital of the Brazilian state of Paraná. The company is managed by Frito-Lay, a subsidiary of the American branch of PepsiCo. https://en.wikipedia.org/wiki/Elma_Chips"
+    },
+    {
+      "id": "d3911c94-60f4-4676-9d4e-dc9d0112ddfe",
+      "isActive": true,
+      "company": "Três Corações",
+      "industry": "foods",
+      "about": "3corações is a Brazilian food company that emerged from a joint venture between the Brazilian São Miguel Holding, owner of the company Santa Clara, and the Israeli Strauss, owner of the company Café Três Corações. The company operates in several segments, the main ones being coffee, multi-drink machines, corn products, seasonings, chocolate drinks and soft drinks. https://pt.wikipedia.org/wiki/Tr%C3%AAs_Cora%C3%A7%C3%B5es_(empresa)"
+    }
+  ]
+}
