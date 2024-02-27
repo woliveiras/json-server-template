@@ -19,6 +19,7 @@ Maybe you will need help to create some GitHub Actions or another .github config
 - [React, Vite + json-server](#ReactVitejson-server)
 - [How to use this template](#Howtousethistemplate)
 - [How to run this project](#Howtorunthisproject)
+- [Available Endpoints](#AvailableEndpoints)
 - [Running the tests](#Runningthetests)
 - [Watching tests in UI mode](#WatchingtestsinUImode)
 
@@ -87,6 +88,22 @@ Run the server:
 ```sh
 npm run server
 ```
+
+## <a name='AvailableEndpoints'></a>Available Endpoints
+
+You can use the mock server with the endpoints:
+
+`GET all`: http://localhost:4002/companies/
+`GET one`: http://localhost:4002/companies/<Company_ID>
+`GET specific`: http://localhost:4002/companies?company=Doylly
+
+`POST with body params`: http://localhost:4002/companies/
+`POST with URL params`: http://localhost:4002/companies?id=0101010&company=Test
+
+`PATCH with body params`: http://localhost:4002/companies/
+`PATCH with URL params`: http://localhost:4002/companies?id=0101010&company=Test
+
+`DELETE one`: http://localhost:4002/companies/<Company_ID>
 
 ## <a name='Runningthetests'></a>Running the tests
 
