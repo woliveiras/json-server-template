@@ -24,7 +24,7 @@
     "@testing-library/jest-dom": "^6.4.2",
     "@testing-library/react": "^14.2.1",
     "@types/json-server": "^0.14.7",
-    "@types/node": "^20.11.20",
+    "@types/node": "^20.11.25",
     "@types/react": "^18.2.59",
     "@types/react-dom": "^18.2.19",
     "@typescript-eslint/eslint-plugin": "^7.1.0",
